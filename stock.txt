@@ -1,0 +1,7 @@
+Cookie::10::1.00
+Water::9::0.99
+Coke::10::0.99
+Fanta::10::0.99
+Chocolate::9::1.99
+Marathon::10::2.65
+Mars Bar::9::1.65

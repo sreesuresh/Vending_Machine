@@ -1,0 +1,67 @@
+2022-09-16T15:43:30.035386900 : added 1.99 to balance
+2022-09-16T15:44:00.612223 : added 3.98 to balance
+2022-09-16T15:44:05.925188600 : Fanta stock reduced by 1
+2022-09-16T15:44:05.926186 : Reducing balance by 0.99
+2022-09-16T15:44:05.927183 : Returning change for 2.99
+2022-09-16T15:45:10.970373500 : added 1.65 to balance
+2022-09-16T15:45:20.346508900 : Mars Bar stock reduced by 1
+2022-09-16T15:45:20.348504 : Reducing balance by 1.65
+2022-09-16T15:45:20.348504 : No change given 
+2022-09-16T15:48:53.371705100 : added 2.65 to balance
+2022-09-16T15:49:04.749786700 : Mars Bar stock reduced by 1
+2022-09-16T15:49:04.751781500 : Reducing balance by 1.65
+2022-09-16T15:49:04.752782400 : Returning change for 1.00
+2022-09-16T15:49:36.260849600 : added 3.65 to balance
+2022-09-16T15:49:46.406431900 : Marathon stock reduced by 1
+2022-09-16T15:49:46.407462 : Reducing balance by 2.65
+2022-09-16T15:49:46.407462 : Returning change for 1.00
+2022-09-16T15:49:57.316791100 : added 5.65 to balance
+2022-09-16T15:50:07.339216900 : Chocolate stock reduced by 1
+2022-09-16T15:50:07.340216500 : Reducing balance by 1.99
+2022-09-16T15:50:07.340216500 : Returning change for 3.66
+2022-09-16T15:58:14.149682500 : added 1.99 to balance
+2022-09-16T15:58:20.530564700 : Chocolate stock reduced by 1
+2022-09-16T15:58:20.532557100 : Reducing balance by 1.99
+2022-09-16T15:58:20.533556300 : No change given 
+2022-09-16T15:58:44.181295900 : added 1.65 to balance
+2022-09-16T15:59:08.984378500 : added 3.30 to balance
+2022-09-16T15:59:13.998696500 : Mars Bar stock reduced by 1
+2022-09-16T15:59:13.999694400 : Reducing balance by 1.65
+2022-09-16T15:59:14.000695400 : Returning change for 1.65
+2022-09-16T15:59:25.493508400 : added 1.65 to balance
+2022-09-16T15:59:32.181985700 : Mars Bar stock reduced by 1
+2022-09-16T15:59:32.183983500 : Reducing balance by 1.65
+2022-09-16T15:59:32.183983500 : No change given 
+2022-09-16T15:59:41.724763700 : added 2.65 to balance
+2022-09-16T15:59:51.939209100 : Chocolate stock reduced by 1
+2022-09-16T15:59:51.940208700 : Reducing balance by 1.99
+2022-09-16T15:59:51.941204100 : Returning change for 0.66
+2022-09-16T16:00:04.517635200 : added 2.65 to balance
+2022-09-16T16:00:07.628344600 : Fanta stock reduced by 1
+2022-09-16T16:00:07.629342700 : Reducing balance by 0.99
+2022-09-16T16:00:07.630371500 : Returning change for 1.66
+2022-09-16T16:00:13.315743700 : added 1.99 to balance
+2022-09-16T16:00:18.017181600 : Fanta stock reduced by 1
+2022-09-16T16:00:18.018175800 : Reducing balance by 0.99
+2022-09-16T16:00:18.019173 : Returning change for 1.00
+2022-09-16T16:02:06.725997900 : added 1.25 to balance
+2022-09-16T16:02:33.545521800 : added 2.50 to balance
+2022-09-16T16:02:37.372797600 : Water stock reduced by 1
+2022-09-16T16:02:37.374795 : Reducing balance by 0.99
+2022-09-16T16:02:37.374795 : Returning change for 1.51
+2022-09-16T16:03:46.017785900 : added 3.00 to balance
+2022-09-16T16:03:53.075939300 : Mars Bar stock reduced by 1
+2022-09-16T16:03:53.077933500 : Reducing balance by 1.65
+2022-09-16T16:03:53.078961800 : Returning change for 1.35
+2022-09-16T16:04:55.795414100 : added 0.50 to balance
+2022-09-16T16:05:07.230822900 : added 2.15 to balance
+2022-09-16T16:05:13.645487200 : Chocolate stock reduced by 1
+2022-09-16T16:05:13.647484800 : Reducing balance by 1.99
+2022-09-16T16:05:13.648482100 : Returning change for 0.16
+2022-09-16T16:05:48.617244700 : added 1.65 to balance
+2022-09-16T16:05:54.122054500 : Insufficient balance for Chocolate
+2022-09-16T16:06:09.933584600 : added 4.15 to balance
+2022-09-16T16:07:12.411494 : added 1.50 to balance
+2022-09-16T16:07:18.368985400 : Insufficient balance for Chocolate
+2022-09-16T16:25:27.632277400 : added 2.00 to balance
+2022-09-16T16:25:38.191103600 : Insufficient balance for Marathon
